@@ -1,7 +1,8 @@
 name: flutter_play_asset_delivery
 description: A new flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://yucon-digital.de
+repository: https://github.com/yuconDigital/flutter_play_asset_delivery
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
